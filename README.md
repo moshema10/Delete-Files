@@ -3,8 +3,8 @@
 The script currenly delete files with simple commands from the temporary folder and recyclebin of your windows.
 
 # How to Execute
- Clone the repo
- Go to [main.exe](dist/) run the **main.exe** with options
+ * Clone the repo
+ * Go to [main.exe](dist/) run the **main.exe** with options
  
 # CLI Options
  * **main.exe --bin** [It will delete all of your recycle bin files]
